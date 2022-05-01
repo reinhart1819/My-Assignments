@@ -1,0 +1,33 @@
+/* this is a comment  */
+body {
+    font-family: Arial;
+    background-color:rgb(29, 29, 29);
+    color: white;
+}
+header {
+    text-align: center;
+}
+
+header h1 {
+    background-color: rgb(80, 78, 78);
+    color: rgb(125, 217, 21);
+    font-size: 100px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    text-shadow: 5px 5px rgb(3, 49, 3);
+    width:90%;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.container {
+    width:70%;
+    margin-right: auto;
+    margin-left: auto;
+}
